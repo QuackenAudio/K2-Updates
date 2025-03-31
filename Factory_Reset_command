@@ -1,0 +1,4 @@
+Factory Reset
+Use in SSH Terminal
+
+echo “all” | nc -U /var/run/wipe.sock
